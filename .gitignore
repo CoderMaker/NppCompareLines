@@ -1,0 +1,10 @@
+*.~*
+*.dcu
+
+*.hpp
+*.identcache
+*.local
+
+clear~.bat
+Thumbs.db
+

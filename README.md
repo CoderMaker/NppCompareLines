@@ -7,11 +7,11 @@ Sort (alphabetically, by line length, numeric) lines, delete duplicates, delete 
 
 Compilation
 --------------
-To compile you need Delphi (project created in Delphi 7).
+To compile open NppCompareLines.dpr in Delphi (project created in Delphi 7).
 
 Installation
 --------------
-Build the project in Delphi (default project output directory: C:\Program Files\Notepad++\plugins).
+Build the project in Delphi (default project output directory: C:\Program Files\Notepad++\plugins) or copy `NppCompareLines.dll` manually to the Notepad++ plugin directory.
 
 Manual install
 -----------------
